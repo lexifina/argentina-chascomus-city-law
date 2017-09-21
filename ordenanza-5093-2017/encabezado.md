@@ -1,0 +1,22 @@
+Ordenanza Nº5093/2017
+Ordenanza Nº 5093/2017
+Chascomús, 08/06/2017
+VISTO:
+La Ordenanza Nº 5000/16 que adhirió al régimen de Policía de Prevención Local en los términos de la Ley 13.482, el Decreto N° 373 del año 2014 y la Resolución Ministerial N° 835 del año 2014, y
+CONSIDERANDO:
+Que conforme las previsiones de los artículos 2°, 5° y concordantes de la Ley N° 12.154, la seguridad pública resulta competencia exclusiva del Estado y su mantenimiento le corresponde al Gobierno de la Provincia de Buenos Aires, importando para los ciudadanos, el goce y ejercicio de sus derechos, libertades y garantías constitucionales;
+Que la Ley N° 13.482 de Unificación de las Normas de Organización de las Policías de la Provincia de Buenos Aires definió las distintas áreas policiales y sus competencias materiales, estableciendo a su vez la descentralización y desconcentración operativa de las Policías de la Provincia, instituyendo en cabeza del Ministro de Seguridad la creación de nuevas unidades policiales y la determinación de su ámbito de competencia territorial;
+Que mediante la Resolución Ministerial N° 835 del año 2014 se crearon las Unidades de Policía de Prevención Local, que actuaran como policía de seguridad en los Municipios que adhieran al presente régimen;
+Que, el Decreto N° 373 del año 2014 el Gobierno de la Provincia de Buenos Aires instruyó al Ministerio de Seguridad para que, en ejercicio de las facultades que le confiere la Ley 13.482, cree las Unidades de Policía de Prevención Local, con el objeto de fortalecer la prevención del delito a escala municipal y potenciar la descentralización operativa de la policía;
+Que actualmente el gobierno de la Provincia de Buenos Aires pretende que la Policía de Prevención Local creadas por la mencionada normativa se unifiquen con la Policía Comunal en aquellos Distritos con una población menor a los 70.000 habitantes;
+Que es indispensable continuar con el rol activo y colaborador de las políticas de seguridad establecidas desde el gobierno provincial con el claro objetivo de lograr un mejoramiento de la situación de nuestra ciudad;
+Que el Consejo Económico y Social de las Naciones Unidas, pone el acento en la coordinación de las administraciones locales en la implementación de planes de seguridad ciudadana;
+Que la conducción ejercida por el Municipio debe contar con el apoyo del gobierno provincial, quien debe proveer todos los elementos a su cargo para desarrollar las acciones preventivas correspondan;
+Que dada la complejidad de los problemas de seguridad, las políticas públicas a desarrollar no se agotan en la mera presencia disuasiva de la policía, sino que hace necesaria una real participación activa del municipio y del ciudadano en materia de prevención y contención;
+Que mediante el Convenio Específico de Conformación y Cooperación la Municipalidad de Chascomús adhiere al Régimen de las Policías de Prevención Local, el cual debería ser rescindido entre las partes;
+Que atento las facultades previstas en el convenio Específico de Conformación y Cooperación, y en virtud de la nueva política provincial en seguridad, ante el requerimiento del gobierno provincial, es que se hace necesario la rescisión del Convenio de Adhesión al Régimen de las Policías de Prevención Local suscripto con fecha 23 de Junio de 2016, en los términos instituidos por el Decreto N° 373/14 y la Resolución Ministerial N° 835/14;
+Que asimismo, y teniendo en consideración las nuevas Políticas de Seguridad que está llevando a cabo el Gobierno de la Provincia de Buenos Aires, se hace necesaria la adhesión al Régimen de la Policía Comunal previsto en el Título III de la Ley N° 13.482, atento cumplir con el requisito previsto en el art. 86º de la misma;
+Que, oportunamente se dispondrá la incorporación de la totalidad del personal afectado al régimen de la Policía de Prevención Local a la Policía de Seguridad Comunal (estableciendo su afectación a la Comisaria 1ª de Chascomús por un plazo mínimo de 20 años), así como también la asignación de 3 nuevos patrulleros (adicionales a los actuales), y diez (10) motos para cubrir las necesidades de nuestra comunidad en materia de prevención del delito;
+Que la adhesión a la Policía de Seguridad Comunal implicará también la transferencia mensual del “fondo para el mantenimiento de la policía comunal”, para aplicar a gastos que actualmente de hecho se encuentra afrontando el Estado Municipal a modo de colaboración con las políticas de seguridad ciudadana;
+Por ello, el Honorable Concejo Deliberante sanciona la siguiente
+ORDENANZA
