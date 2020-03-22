@@ -1,0 +1,19 @@
+Ordenanza Nº5446/19
+Ordenanza Nº 5446/19
+Chascomús, 19/12/2019
+VISTO:
+La necesidad de contar con una legislación especial que regule la gestión integral de los residuos de grandes generadores habida cuenta que los mismos constituyen volúmenes claramente diferenciables de la generación domiciliaria que impactan de manera significativa en el ambiente; y
+CONSIDERANDO:
+Que el Artículo 28 de la Constitución de la Provincia de Buenos Aires dispone que la Provincia deberá preservar, recuperar y conservar los recursos naturales, renovables y no renovables del territorio provincial, así como promover acciones que eviten la contaminación del aire, agua y suelo;
+Que la Ley Nacional N° 25.916 de Presupuestos Mínimos para la Gestión Integral de Residuos Domiciliarios, establece entre sus principios y conceptos básicos la consideración de los residuos como un recurso, la minimización de la generación, la reducción del volumen y la cantidad total y por habitante de los residuos que se producen o disponen, estableciendo metas progresivas, a las que deberán ajustarse los sujetos obligados;
+Que en dicha Ley Nacional se define el concepto de residuos domiciliarios, estableciendo asimismo que toda persona humana o jurídica que los genere tiene la obligación de realizar el acopio y la disposición inicial de los mismos de acuerdo a parámetros que serán establecidos por las normas complementarias que cada jurisdicción establezca;
+Que en el artículo 11 de la ley mencionada se clasifica a los generadores en individuales y especiales en función de la calidad y cantidad de residuos, y de las condiciones en que son generados, autorizando a cada jurisdicción a establecer por normas complementarias los parámetros para su determinación;
+Que las Resoluciones N° 137, 138 y 139 del año 2013 del Organismo Provincial para el Desarrollo Sostenible de la Provincia de Buenos Aires, ha establecido dichas normas complementarias para los municipios del área metropolitana de Buenos Aires.
+Que la Resolución N° 85 del año 2014 del Organismo Provincial para el Desarrollo Sostenible de la Provincia de Buenos Aires, ha establecido dichas normas complementarias para los Municipios Costeros del Litoral Marítimo de la Provincia de Bs As, situados entre San Clemente del Tuyú y la Localidad de Patagones cuyo territorio se encuentre lindante en su extremo este con el Mar Argentino.
+Que conforme lo establecido en la Ley Provincial de Gestión Integral de Residuos Sólidos Urbanos N° 13.562, constituyen objetivos en materia ambiental la incorporación en la disposición inicial de la separación en origen, la valorización, la reutilización, el reciclaje y la minimización de la generación de residuos de acuerdo a las metas establecidas por la misma;
+Que en el artículo 3°, inciso 4° de la citada ley se contempla la incorporación del principio de “Responsabilidad del Causante”, por el cual toda persona física o jurídica que produce, detenta o gestiona un residuo, está obligada a asegurar o hacer asegurar su eliminación conforme a las disposiciones vigentes;
+Que la Ley Provincial N° 14.273 establece que los grandes generadores de residuos domiciliarios o asimilables a estos deben hacerse cargo de los costos de transporte y disposición final de los residuos por ellos generados;
+Que se torna necesario dar un tratamiento particular a los residuos generados por quienes en función de su actividad, o volumen de producción deben asumir una gestión diferenciada, procurando un control más eficaz y facilitando la valorización y reciclado de los mismos;
+Que la presente ordenanza tiene por objetivo implementar las acciones para maximizar el recupero de los materiales reciclables y/o valorizables, y disminuir el volumen destinado a disposición final, de acuerdo a las definiciones que aquí se establecen;
+Por ello, el Honorable Concejo Deliberante de Chascomús sanciona la siguiente.
+ORDENANZA
