@@ -1,0 +1,1 @@
+ARTICULO 10°.- Solicítese al Departamento Ejecutivo, realizar una amplia campaña de difusión sobre lo normado en la presente, haciendo hincapié en los usuarios directamente beneficiados por la misma.-.
