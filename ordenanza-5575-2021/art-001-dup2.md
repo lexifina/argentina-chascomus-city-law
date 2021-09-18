@@ -1,0 +1,1 @@
+ARTICULO 1°: La Municipalidad adhiere a la Ley Nº 14.449 el predio designado catastralmente como Circunscripción I, Sección C, Manzana 186, Parcela 5g., de acuerdo al Plano de mensura y Unificación, visado municipal N° 83 Letra U, con fecha 6 de octubre de 2020.-
