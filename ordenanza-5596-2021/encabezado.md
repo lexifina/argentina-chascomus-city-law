@@ -1,0 +1,15 @@
+Ordenanza Nº5596/21
+Ordenanza Nº 5596/21
+Chascomús, 18/11/2021
+VISTO:
+Que en el año 2022 se cumplen 40 años del conflicto bélico que caló hondo en la vida y el espíritu nacional, el fin de la Guerra de Malvinas; y
+CONSIDERANDO:
+Que debemos reconocimiento a cada uno de los Veteranos de Guerra de Malvinas, destacando el coraje y arrojo con el que combatieron en defensa de nuestra soberanía, por la recuperación de nuestras Islas Malvinas, Georgias del Sur, Sándwich del Sur y espacios marítimos circundantes.-
+Que fueron muchas las peripecias que atravesaron los soldados argentinos en dicha contienda entre naciones. Fueron 74 interminables días en los cuales perduró la guerra perpetuada entre Gran Bretaña y la patria argentina; iniciada un 2 de Abril de 1982 mediante la Operación Rosario, y cuyo propósito consistía en recuperar el archipiélago usurpado siglos atrás. Para cumplir con tal cometido, las fuerzas argentinas, arremetieron y batallaron.-
+Que, a partir de 1765, las Islas Malvinas, ubicadas aproximadamente a 600 kilómetros de la costa patagónica, fueron ocupadas por las autoridades españolas del Virreinato del Río de la Plata, luego de algunos hechos diplomáticos y militares entre Francia, España y Gran Bretaña. No obstante, en 1820, las autoridades argentinas con asiento en Buenos Aires toman posesión, nuevamente, y nombran a Luis Vernet Gobernador de las islas el 10 de Junio de 1829. Cuatro años después, un 3 de Enero de 1833, el territorio es usurpado por la corbeta británica Clio, quienes expulsan a los mandos argentinos vigentes.-
+Que dicha situación se prolongó hasta el 2 de Abril de 1982, año en que se dio inicio a la Operación Rosario, es decir la recuperación de las islas a través de fuerzas militares nacionales logrando la ocupación de Stanley —capital de las Malvinas—, y dando inicio al Conflicto de Malvinas de 1982.-
+Que, como respuesta, el Gobierno británico envía una gran fuerza expedicionaria que al cabo de 10 semanas de guerra desaloja a las fuerzas argentinas. El pabellón nacional flameó hasta el 14 de junio de 1982 en las islas, momento en el cual fueron “recuperadas” por la nación extranjera.-
+Que como consecuencia del conflicto armado que se extendió durante 74 días, murieron 650 combatientes argentinos y 255 británicos, además de tres civiles.-
+Que nuestra Constitución Nacional, en su reforma vigente desde el año 1994, expresa en su Disposición Transitoria Primera que “la Nación Argentina ratifica su legítima e imprescriptible soberanía sobre las islas Malvinas, Georgias del Sur y Sándwich del Sur y los espacios marítimos e insulares correspondientes, por ser parte integrante del territorio nacional. La recuperación de dichos territorios y el ejercicio pleno de la soberanía, respetando el modo de vida de sus habitantes y conforme a los principios del Derecho Internacional, constituyen un objetivo permanente e irrenunciable del pueblo argentino”.-
+Por ello, el Honorable Concejo Deliberante de Chascomús sanciona la siguiente.
+ORDENANZA
