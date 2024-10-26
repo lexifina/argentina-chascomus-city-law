@@ -1,0 +1,16 @@
+Ordenanza Nº5833/24
+Ordenanza Nº 5833/24
+Chascomús, 12/09/2024
+VISTO:
+El Expediente Administrativo N° 4030-155816 caratulado “Explotación en concesión de la unidad de servicios turísticos de la parcela ribereña N° 19” y el Expediente Administrativo GDE EX-2023-00026808-CHASCOMUS-MESA#SG iniciado a raíz de la “Solicitud de Traspaso de Concesión Parcela Ribereña N° 19” requerida por MENDIVIL Mariano y BIGATTI Alfredo; y
+CONSIDERANDO:
+Que la Municipalidad de Chascomús en fecha 30/04/2022 suscribió contrato de concesión con MENDIVIL Mariano José, CUIT 23-31836648-9 y BIGATTI Alfredo, CUIT 20-36477566-1, adjudicatarios de la Licitación Pública N° 19/21 para la explotación en concesión de la Unidad de Servicios Turísticos Parcela Ribereña N° 19, ubicada en el Km. 8 del Camino de Circunvalación de la Laguna de Chascomús, autorizada por Ordenanza 5584/2021 y adjudicada por Decreto 88/2022.
+Que, con posterioridad, los concesionarios Mendivil y Bigatti solicitan mediante nota dirigida al Intendente el cambio de titularidad en la concesión de la Licitación Pública N° 19/21 a nombre de “CHASCOMUS LAGUNA CAMP S.R.L.” CUIT N° 30-71760660-0, Sociedad de Responsabilidad Limitada, de la cual son socios fundadores.
+Que a tales fines presentan copia del contrato constitutivo de la sociedad y copia de la inscripción en AFIP y ARBA.
+Que conforme lo receptado por la Ley 19.550 uno de los requisitos tipificantes de las sociedades de responsabilidad limitada, se encuentra en la responsabilidad especial de los socios, que se limita a la integración de las cuotas que suscriban o adquieran.
+Que atento a lo que surge del contrato constitutivo acompañado, el capital social de la nombrada empresa, es de $ 3.000.000, suscribiéndose en partes iguales por sus dos socios Mendivil y Bigatti.
+Que, no obstante, la limitación detallada respecto de la responsabilidad, conforme surge de la cláusula décima primera del contrato de concesión, los concesionarios se encuentran obligados a contratar seguros sobre las instalaciones del bien concesionado, de responsabilidad civil contra terceros y cosas y por accidentes de riesgo de trabajo. Asimismo, deben, durante toda la vigencia de la concesión constituir una garantía del cumplimiento del contrato equivalente al total del 15% cánones mensuales ofrecidos o el 15% de la totalidad de la inversión propuesta actualizable anualmente.
+Que en el expediente administrativo EXP-2023-000 26808- CHASCOMÚS-MESA SG adjunto al proyecto de ordenanza remitido por el Departamento Ejecutivo, por el cual se promueve a autorizar el traspaso de titularidad, obra dictamen de la asesoría de Asuntos Legales Municipal y de la autoridad de aplicación.
+Que mediante Nota 272 el Departamento Ejecutivo informa que ha ingresado un pedido de compensación de canon por parte del concesionario por obras que no estarían previstas, según el concesionario, que, si bien no se ha resuelto el planteo no se ha intimado el pago del canon, aunque si se lo liquida de forma mensual Honorable Concejo Deliberante Mitre 38 - Chascomús “2024: Año del 225° Aniversario del fallecimiento del fundador de Chascomús – Pedro Nicolás Escribano” 2 generando los intereses correspondientes, pudiendo liquidar la deuda generada en módulos municipales.
+Por ello, el Honorable Concejo Deliberante de Chascomús sanciona la siguiente
+ORDENANZA
