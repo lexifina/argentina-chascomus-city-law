@@ -8,7 +8,9 @@ The text is in Spanish, exactly as the source prints it.
 
 ## What this repository holds
 
-205 ordinances so far, in force from 6 September 2017 to 8 November 2026, each as published in the Boletín Oficial Municipal de Chascomús, added in parts.
+210 ordinances so far (211 versions), in force from 6 September 2017 to 8 November 2026, each as published in the Boletín Oficial Municipal de Chascomús, added in parts.
+
+Five additional original instruments are included from the 2019 bulletin archive. Ordinance 5352/2019 also includes a replayed article 4 from Ordinance 5373/2019; SIBOM supplies the instruments separately and has no consolidated edition. This is a partial historical record, not a statement of complete current-law coverage.
 
 | Folder | Ordinance | History |
 | --- | --- | --- |
@@ -217,6 +219,12 @@ The text is in Spanish, exactly as the source prints it.
 | `ordenanza-6015-2026/` | Ordenanza 6015/2026: Declárase al profesor Felipe Giles "Personalidad Destacada de la Cultura y la Danza Folclórica del Partido de Chascomús", en reconocimiento… | in force 8 November 2026 |
 | `ordenanza-6017-2026/` | Ordenanza 6017/2026: Encomiéndase al Departamento Ejecutivo, a través de la Secretaría de Seguridad Ciudadana y el área de Comunicación Institucional, el diseño… | in force 8 November 2026 |
 | `ordenanza-6024-2026/` | Ordenanza 6024/2026: Autorizase al Departamento Ejecutivo a prorrogar el Contrato de Concesión del ''Balneario Las Escalinatas'', explotado por la firma CAFÉ MU… | in force 8 November 2026 |
+
+| `ordenanza-5352-2019/` | Ordenanza 5352/2019: Autorizar al Departamento Ejecutivo a evaluar la posibilidad de reducir en un 30 % (treinta por ciento) la tasa por alumbrado público establecidas en el Artículo 3º de la Ordenanza Nº5334 (Ordenanza Impositiva) vigente p | 2019-07-19 (as enacted); 2019-09-27 (replayed) |
+| `ordenanza-5373-2019/` | Ordenanza 5373/2019: Quede sin efecto el artículo 4º de la Ordenanza 5352, quedando redactado de la siguiente forma “Estarán alcanzados, para los beneficios en el presente proyecto, los contribuyentes que no registren deudas por tributos mun | 2019-09-27 (as enacted) |
+| `ordenanza-5380-2019/` | Ordenanza 5380/2019: Créase el Escenario Itinerante Municipal.- | 2019-09-27 (as enacted) |
+| `ordenanza-5385-2019/` | Ordenanza 5385/2019: Reconocer en el ámbito municipal la fecha del 2 de Agosto como el "Día en Defensa de la Escuela digna y segura". | 2019-09-27 (as enacted) |
+| `ordenanza-5386-2019/` | Ordenanza 5386/2019: Autorizar al Departamento Ejecutivo a suscribir un contrato de locación con AMX ARGENTINA S.A. C.U.I.T. 30-66328849-7, en los términos del Artículo 55° de la LOM.- | 2019-09-27 (as enacted) |
 
 ## Source
 

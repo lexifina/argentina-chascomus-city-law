@@ -5,7 +5,7 @@
   "level": "municipality",
   "parent": "ar-b",
   "repo": "https://github.com/lexifina/argentina-chascomus-city-law",
-  "build": "built: municipal ordinances (205 ordinances, 205 versions) from https://sibom.slyt.gba.gob.ar/cities/31",
+  "build": "built: partial municipal history (210 ordinances, 211 versions), including one replayed amendment; source https://sibom.slyt.gba.gob.ar/cities/31",
   "language": "es",
   "sources": 1
 }
