@@ -2870,6 +2870,82 @@
      "sha256": "4f95d63f61fa7620e181faf3a2515f114d04f73efd0d1064c93f3f0e32bf5485"
     }
    ]
+  },
+  {
+   "slug": "ordenanza-5352-2019",
+   "short": "Ordenanza 5352/2019",
+   "title": "Ordenanza 5352/2019: Autorizar al Departamento Ejecutivo a evaluar la posibilidad de reducir en un 30 % (treinta por ciento) la tasa por alumbrado público establecidas en el Artículo 3º de la Ordenanza Nº5334 (Ordenanza Impositiva) vigente p",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2331/contents/1341075",
+   "versions": [
+    {
+     "from": "2019-07-19",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2331/contents/1341075",
+     "sha256": "6918c154f3ff3adde2cd4943072697b6a5947b639bba89c50e8ae9c6b44f288b"
+    },
+    {
+     "from": "2019-09-27",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2539/contents/1358713",
+     "sha256": "92e837d0c99f3b88611aa06082093735a82530e59ac177e6af380128a1dcbcbf"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5373-2019",
+   "short": "Ordenanza 5373/2019",
+   "title": "Ordenanza 5373/2019: Quede sin efecto el artículo 4º de la Ordenanza 5352, quedando redactado de la siguiente forma “Estarán alcanzados, para los beneficios en el presente proyecto, los contribuyentes que no registren deudas por tributos mun",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2539/contents/1358713",
+   "versions": [
+    {
+     "from": "2019-09-27",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2539/contents/1358713",
+     "sha256": "92e837d0c99f3b88611aa06082093735a82530e59ac177e6af380128a1dcbcbf"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5380-2019",
+   "short": "Ordenanza 5380/2019",
+   "title": "Ordenanza 5380/2019: Créase el Escenario Itinerante Municipal.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2539/contents/1359119",
+   "versions": [
+    {
+     "from": "2019-09-27",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2539/contents/1359119",
+     "sha256": "5ee5e5dc5b507d93d5b2f88cf43c603e1f05c2b3cc75050f10cd504b79d696dc"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5385-2019",
+   "short": "Ordenanza 5385/2019",
+   "title": "Ordenanza 5385/2019: Reconocer en el ámbito municipal la fecha del 2 de Agosto como el \"Día en Defensa de la Escuela digna y segura\".",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2539/contents/1360241",
+   "versions": [
+    {
+     "from": "2019-09-27",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2539/contents/1360241",
+     "sha256": "c16a36b4148e24fad49c557f0da77dbdb54e7731c47aab81e5b6b8c617a1059f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5386-2019",
+   "short": "Ordenanza 5386/2019",
+   "title": "Ordenanza 5386/2019: Autorizar al Departamento Ejecutivo a suscribir un contrato de locación con AMX ARGENTINA S.A. C.U.I.T. 30-66328849-7, en los términos del Artículo 55° de la LOM.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2539/contents/1360245",
+   "versions": [
+    {
+     "from": "2019-09-27",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2539/contents/1360245",
+     "sha256": "db7f79b783b1db4e023cbddcd9494df3e8852a3b738fee32b1bf1f93b0282070"
+    }
+   ]
   }
  ]
 }

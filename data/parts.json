@@ -229,6 +229,16 @@
     "ordenanza-6024-2026"
    ],
    "sha256": "8d3bf4a5a0662d3fa327fb0832e2f9ec188a58b53c1495c897c854b56e064ac5"
+  },
+  "40-q233-historical-ordinances.json": {
+   "acts": [
+    "ordenanza-5352-2019",
+    "ordenanza-5373-2019",
+    "ordenanza-5380-2019",
+    "ordenanza-5385-2019",
+    "ordenanza-5386-2019"
+   ],
+   "sha256": "4d0a44feb54c135aefa79ab2c790f05a02da1a47ccb603fe207f51a8aa069cb3"
   }
  },
  "schema": 1

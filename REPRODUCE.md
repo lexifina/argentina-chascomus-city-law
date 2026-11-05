@@ -7,6 +7,7 @@ This file is written by the build on 2026-11-05, the day the source data was ret
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técnica, Secretaría General, Provincia de Buenos Aires: Boletín Oficial Municipal de Chascomús | <https://sibom.slyt.gba.gob.ar/cities/31> | 2026-11-01 | Official municipal ordinances, published in the Boletín Oficial Municipal. Argentina's copyright law (Ley 11.723) has no express exclusion for them; ordinances are public acts of government, binding on everyone once officially published. The source states no restriction on reuse. Reproduced with attribution, following the official text. |
+| Boletín Oficial Municipal de Chascomús (SIBOM) | <https://sibom.slyt.gba.gob.ar/cities/31> | 2026-11-05 | Official municipal ordinances reproduced with attribution. The source states no restriction on reuse. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -219,20 +220,25 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-6015-2026` | Ordenanza 6015/2026: Declárase al profesor Felipe Giles "Personalidad Destacada de la Cultura y la Danza Folclórica del Partido de Chascomús", en reconocimiento a su extensa trayectoria, su compromiso con la enseñanza y difusión del folclore | 1 | 2026-11-08 to 2026-11-08 |
 | `ordenanza-6017-2026` | Ordenanza 6017/2026: Encomiéndase al Departamento Ejecutivo, a través de la Secretaría de Seguridad Ciudadana y el área de Comunicación Institucional, el diseño e implementación de una Campaña Permanente de Información, Concientización y Tra | 1 | 2026-11-08 to 2026-11-08 |
 | `ordenanza-6024-2026` | Ordenanza 6024/2026: Autorizase al Departamento Ejecutivo a prorrogar el Contrato de Concesión del ''Balneario Las Escalinatas'', explotado por la firma CAFÉ MULE S.R.L. (CUIT Nº 30-71629287-4), por el término de hasta dos (2) meses, contado | 1 | 2026-11-08 to 2026-11-08 |
+| `ordenanza-5352-2019` | Ordenanza 5352/2019: Autorizar al Departamento Ejecutivo a evaluar la posibilidad de reducir en un 30 % (treinta por ciento) la tasa por alumbrado público establecidas en el Artículo 3º de la Ordenanza Nº5334 (Ordenanza Impositiva) vigente p | 2 | 2019-07-19 to 2019-09-27 |
+| `ordenanza-5373-2019` | Ordenanza 5373/2019: Quede sin efecto el artículo 4º de la Ordenanza 5352, quedando redactado de la siguiente forma “Estarán alcanzados, para los beneficios en el presente proyecto, los contribuyentes que no registren deudas por tributos mun | 1 | 2019-09-27 to 2019-09-27 |
+| `ordenanza-5380-2019` | Ordenanza 5380/2019: Créase el Escenario Itinerante Municipal.- | 1 | 2019-09-27 to 2019-09-27 |
+| `ordenanza-5385-2019` | Ordenanza 5385/2019: Reconocer en el ámbito municipal la fecha del 2 de Agosto como el "Día en Defensa de la Escuela digna y segura". | 1 | 2019-09-27 to 2019-09-27 |
+| `ordenanza-5386-2019` | Ordenanza 5386/2019: Autorizar al Departamento Ejecutivo a suscribir un contrato de locación con AMX ARGENTINA S.A. C.U.I.T. 30-66328849-7, en los términos del Artículo 55° de la LOM.- | 1 | 2019-09-27 to 2019-09-27 |
 
-The build made 205 commits:
+The build made 211 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 205 | first version of an act |
-| 0 | one law on its in-force day |
+| 210 | first version of an act |
+| 1 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 4 commits on the branch `futuro`: laws not yet in force on 2026-11-05.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 205 laws in the record.
-- 411 tags.
+- 210 laws in the record.
+- 422 tags.
 
 ## Dates
 
@@ -244,15 +250,15 @@ When a law gives no date of its own, the default rule applies: An ordinance take
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `107275ba392a9a62cbd3916488727bf7e155d517f0ffe1e18a0db07a7636632a` (1212895 bytes).
+- Corpus: sha256 `003e70da193c18a1200505aea383f7e065b8ea066625f3d3da1b7a32d25b55ee` (1245293 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-205 versions of 205 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
-No second build of this corpus has been compared yet.
+A second build from the same corpus into an empty folder gave identical hashes for all 207 history commits and 421 tags (history tip `524d881a4ebb6d1a7e9a0a0e16e66a18b24da9e6`).
 
 ## Decisions made by hand
 
@@ -261,6 +267,10 @@ No second build of this corpus has been compared yet.
 - The Province of Buenos Aires gives its municipalities no carta orgánica: their organic law is the provincial Ley Orgánica de las Municipalidades (Decreto-Ley 6769/58), which is provincial law and not included here. So this repository starts with ordinances.
 - Ordinances are taken from SIBOM's ordinance search for the partido, read from its last result page back (the search lists them only roughly in date order) until about 200 are found, the newest it holds. They are sorted by the day they took effect and added oldest first in parts of about 50, so each part extends the history forward. An ordinance whose page carries only an extract, no article, or its text only as a PDF annex is left out; the README lists every ordinance left out and why. An ordinance published twice is taken from its first publication.
 - Units: the heading (encabezado: number, place and date, the expediente line and anything before Artículo 1) and one file per article, holding the article and everything printed after it up to the next article (signatures, annexes). Nothing is dropped. One paragraph per line, spacing normalised.
+- Five previously unrecorded published ordinances are included as enacted; Ordinance 5352/2019 also has a replayed version whose article 4 is the complete replacement quotation in Ordinance 5373/2019, article 1. No wording is inferred.
+- Original source dates, not the consultation day, determine these versions: publication plus nine days under the corpus default rule; the individual pages also record the ordinance dates.
+- Ordinance 5352/2019 article 5 limits the benefits to one year. No exact expiry or whole-act repeal is asserted.
+- Ordinance 5534/2019 is excluded from this part because its official page approves Annex I and Annex II but supplies neither annex.
 
 ## What AI did and did not do
 
@@ -272,3 +282,4 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which norms to include; it wrote no law text. Every word of law comes from the provincial source's own texts.
+- GPT-6 selected the instruments and specified the deterministic article replacement and source checks. All legal wording is extracted from official source bytes; no legal wording is model-generated or OCR-derived.
